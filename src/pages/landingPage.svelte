@@ -18,7 +18,7 @@
 		height: 100vw;
 		max-height: 100vh;
 		width: 100%;
-		background-image: url("https://user-images.githubusercontent.com/39828164/258882277-368eac86-3c39-4842-be2c-1436a6db6f07.png");
+		background-image: url("https://hc-cdn.hel1.your-objectstorage.com/s/v3/17dd42cb89950fec94deca5b4467abcf9d48d51c_258882277-368eac86-3c39-4842-be2c-1436a6db6f07.png");
 		background-size: cover;
 		background-position: center;
 	}
