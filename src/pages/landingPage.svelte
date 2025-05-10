@@ -50,6 +50,7 @@
 		border-radius: 12px;
 		padding: 0;
 		cursor: pointer;
+		font-family: "Phantom Sans";
 		margin-top: 20px;
 		span {
 			display: block;
